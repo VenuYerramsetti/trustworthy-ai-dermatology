@@ -1,6 +1,19 @@
 # trustworthy-ai-dermatology
 From building ML models → to questioning if they should be trusted in healthcare.
 
+This project investigates the trustworthiness of AI systems in healthcare, specifically in dermatology image classification.
+
+While deep learning models such as CNNs demonstrate strong predictive performance, this work highlights the limitations of performance-centric evaluation and emphasizes the need for Responsible AI practices.
+
+The study combines technical modelling with ethical and socio-technical analysis, focusing on:
+- Dataset bias and demographic representation
+- Model explainability and transparency
+- Reliability in high-stakes clinical environments
+- Human-AI interaction and decision boundaries
+- Alignment with emerging AI regulations (EU AI Act)
+
+This repository contains the full research paper, supporting materials, and a conceptual Responsible AI framework for healthcare systems.
+
 # 🧠 Towards Trustworthy AI in Dermatology
 
 This project presents a socio-technical evaluation of AI systems for skin disease classification, combining machine learning performance analysis with ethical, regulatory, and trust considerations.
