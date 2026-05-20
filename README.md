@@ -260,7 +260,9 @@ Ultimately, this work argues that trustworthy healthcare AI is not simply a tech
 
 ## Venu Madhuri Yerramsetti
 
-AI/ML Engineer and Graduate Research Applicant
+AI/ML Engineer and Independent AI Researcher
+MSc Artificial Intelligence and Data Science
+University of Hull
 
 ### Research Interests
 
