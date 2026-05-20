@@ -191,7 +191,7 @@ Potential future extensions include:
 
 # Research Paper
 
-📄 [Read the Full Research Paper (PDF)](./paper/yerramsetti_Clinical_AI_Reliability_2026.pdf)
+📄 [Read the Full Research Paper (PDF)](./paper/Yerramsetti_Trustworthy_AI_Dermatology_2026.pdf)
 
 ---
 
